@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Amazon Prime Video Dashboard Preview](https://github.com/minhaj-313/Amazon-Prime-Video-Dashboard-Using-PowerBi/blob/main/Amazon%20Prime%20Video%20Dashboard%20by%20Shaikh%20Minhaj.png)
+![Amazon Prime Video Dashboard Preview](https://github.com/hari7702/Power-BI-Projects/blob/main/Amazon%20Prime%20Video%20Dashboard%20using%20Power%20BI/Amazon%20Vedio%20By%20Hari.png)
 
 ## Overview
 

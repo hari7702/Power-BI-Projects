@@ -1,7 +1,7 @@
 # Sales Dashboard using Power BI
 ## Preview
 
-[Sales Dashboard](https://github.com/hari7702/Power-BI-Projects/blob/main/Sales%20Dashboard/Sales%20Dashboard%20hari.png)
+![Sales Dashboard](https://github.com/hari7702/Power-BI-Projects/blob/main/Sales%20Dashboard/Sales%20Dashboard%20hari.png)
 
 ## Overview
 This project provides an in-depth analysis of sales data, focusing on key metrics such as total sales, order quantity, product performance, and customer segmentation. The dashboard, created with Power BI, offers insights into sales trends, top-selling products, and regional sales distribution.
